@@ -1,9 +1,9 @@
 ---
 layout: post-full
-title: Funcionamento
+title: Operation
 category: [docs]
 ---
 
-Esta página descreve o funcionamento.  
+This page describe the operation.  
 
-[Ver página completa]({{ site.baseurl }}{% link docs/1.0/operation.md %})
+[View full page]({{ site.baseurl }}{% link docs/1.0/operation.md %})

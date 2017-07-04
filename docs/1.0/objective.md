@@ -1,11 +1,13 @@
 ---
 layout: page-classic-sidebar-left
-title: Objetivo
-previous: /docs/1.0/postnotification
-next: /docs/1.0/analise
+title: Objective
+previous: /docs/1.0/overview
+next: /docs/1.0/operation
 ---
 ---
 
-* Auxiliar na detecção de suspeitas de fraude.  
-* Aliada para bloquear ataques em rajada (por exemplo, testes de cartão), bem como avaliações de comportamentos suspeitos de compra.  
-* Cálculos baseados em análises de velocidade de variáveis e a incidência das mesmas em determinados intervalos de tempo.  
+* Assist in detecting suspected fraud.  
+
+* Allied to block out raiding attacks (for example, card tests) as well as ratings of suspect buying behavior.  
+
+* Calculations based on analyzes of velocity of variables and their incidence at certain time intervals.  

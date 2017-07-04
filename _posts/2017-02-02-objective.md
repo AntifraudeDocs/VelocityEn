@@ -1,9 +1,9 @@
 ---
 layout: post-full
-title: Objetivo
+title: Objective
 category: [docs]
 ---
 
-Esta página descreve os objetivos.  
+This page describe the objectives.  
 
-[Ver página completa]({{ site.baseurl }}{% link docs/1.0/objective.md %})  
+[View full page]({{ site.baseurl }}{% link docs/1.0/objective.md %})  

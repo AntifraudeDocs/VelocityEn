@@ -1,7 +1,5 @@
 ### Velocity Check
 
-[Visão Geral]({{ site.baseurl }}{% link docs/1.0/overview.md %})  
-[Objetivo]({{ site.baseurl }}{% link docs/1.0/objective.md %})  
-[Funciomanento]({{ site.baseurl }}{% link docs/1.0/operation.md %})  
-
-
+[Overview]({{ site.baseurl }}{% link docs/1.0/overview.md %})  
+[Objective]({{ site.baseurl }}{% link docs/1.0/objective.md %})  
+[Operation]({{ site.baseurl }}{% link docs/1.0/operation.md %})  
